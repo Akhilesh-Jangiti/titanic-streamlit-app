@@ -14,6 +14,9 @@ This is a Streamlit web application that uses logistic regression (and other cla
 The Titanic dataset is loaded from:
 [https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv](https://raw.githubusercontent.com/datasciencedojo/datasets/master/titanic.csv)
 
+**##Screenshot**
+![Screenshot (12)](https://github.com/user-attachments/assets/cec385a9-5789-480f-82a8-eaf712d0002b)
+
 ## 🚀 How to Run Locally
 
 ### 1. Clone the repository
@@ -21,7 +24,3 @@ The Titanic dataset is loaded from:
 ```bash
 git clone https://github.com/yourusername/titanic-streamlit-app.git
 cd titanic-streamlit-app
-
-**##Screenshot**
-![Screenshot (12)](https://github.com/user-attachments/assets/cec385a9-5789-480f-82a8-eaf712d0002b)
-
